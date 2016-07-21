@@ -39,4 +39,8 @@ test r-1
 test r-2
 test r-3
 test r-4
+<<<<<<< HEAD
 test r-5
+=======
+test r-6
+>>>>>>> 9b5e7878146df662af33e17215e6c8063a0e3f3e
